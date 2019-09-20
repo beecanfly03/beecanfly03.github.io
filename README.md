@@ -2,7 +2,7 @@
 YouCount allows you to see the subscriber count of any YouTube user in realtime. Youtube doesn't allow you to see the subscriber count in realtime. But on YouCount, the subscriber count is updated every second!
 
 ### Website
-https://localhost/
+https://youcount.github.io/
 
 ### Why does it exist?
 There are other websites that allow you to do this as well, but most of them are either badly designed or are not optimized for mobile. YouCount has been specifically designed using the Material Design language and has been optimized for mobile devices.
@@ -23,7 +23,7 @@ There are other websites that allow you to do this as well, but most of them are
 ### How To Use
 Click on the grey searchbox on top where the YouTube Channel's name is written and you can write the Username/ID/Channel Name/Youtube URL (all of them work!) of any channel of your choice and press Enter or the search button. In a way, this is a search engine for YouTube Channels which shows you the subscriber count of the most relevant match with what you type in, so you can type in any of the keywords relating to the channel just like in a search query.
 
-![](https://localhost/images/instruct.png)
+![](https://youcount.github.io/images/instruct.png)
 For example, if I want to see Fine Brothers Entertainment's live subscriber count, I can click on the grey area and write any one of these:
 
 - TheFineBros (their username)
@@ -46,7 +46,7 @@ You can also click the red button below to check out extra useful information li
 
 ### License
 
-Use and modify this code for personal use as much as you want. If however, you want to redistribute the original/modified code, you must allow others to use the original/modified code of this project in your work as well and a GNU General Public License must be issued for your work utilizing the code in this project. If you also keep the same design too in your code, then you should at least add an attribution to the website of this project: https://localhost . This is a mere informal (and imprecise) version of the actual license which you can find here: [LICENSE.md](https://github.com/YouCount/localhost/blob/master/LICENSE).
+Use and modify this code for personal use as much as you want. If however, you want to redistribute the original/modified code, you must allow others to use the original/modified code of this project in your work as well and a GNU General Public License must be issued for your work utilizing the code in this project. If you also keep the same design too in your code, then you should at least add an attribution to the website of this project: https://youcount.github.io . This is a mere informal (and imprecise) version of the actual license which you can find here: [LICENSE.md](https://github.com/YouCount/youcount.github.io/blob/master/LICENSE).
 
 If you are going to utilize the code of this project, consider reading the license once. It has been specifically designed to be simple so that everyone can read and understand it easily.
 
