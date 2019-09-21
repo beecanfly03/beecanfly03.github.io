@@ -6,8 +6,8 @@ if (!stat.devMode) {
     if (window.top !== window.self || window.top.location !== window.self.location) {
       window.top.location = window.self.location;
     }
-    if (window.location.hostname != 'youcount.github.io') {
-        window.location.hostname = 'youcount.github.io';
+    if (window.location.hostname != 'beecanfly03.github.io') {
+        window.location.hostname = 'beecanfly03.github.io';
     }
   } catch (e) {
     if (stat.devMode) throw e
@@ -443,7 +443,7 @@ var loading = {
 function linkshare() {
   fx('pageUrl').fadeIn(250);
   fx('bg2').fadeIn(500);
-  if (!channel.id || !location.hash.split('#!/')[1])changeText(doc.q('#pageUrl input'),'https://youcount.github.io/');
+  if (!channel.id || !location.hash.split('#!/')[1])changeText(doc.q('#pageUrl input'),'https://beecanfly03.github.io/');
 }
 
 if (stat.internet) {

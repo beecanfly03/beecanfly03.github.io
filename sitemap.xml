@@ -5,22 +5,22 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-  <loc>https://youcount.github.io/</loc>
+  <loc>https://beecanfly03.github.io/</loc>
   <changefreq>weekly</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://youcount.github.io/pew-vs-ts</loc>
+  <loc>https://beecanfly03.github.io/pew-vs-ts</loc>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://youcount.github.io/#!/PewDiePie</loc>
+  <loc>https://beecanfly03.github.io/#!/PewDiePie</loc>
   <changefreq>weekly</changefreq>
   <priority>0.60</priority>
 </url>
 <url>
-  <loc>https://youcount.github.io/#!/tseries</loc>
+  <loc>https://beecanfly03.github.io/#!/tseries</loc>
   <changefreq>weekly</changefreq>
   <priority>0.60</priority>
 </url>
